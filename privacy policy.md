@@ -1,6 +1,6 @@
 Privacy Policy
 
-Your privacy is important to us. This privacy policy explains how our multi-downloader app collects, uses, and protects your information.
+Your privacy is important to us. This privacy policy explains how our Free status saver pro app collects, uses, and protects your information.
 
 1. Data Collection: We do not collect or store any personal information. The app only accesses files on your device for the purpose of downloading and managing media content. No data is shared with third parties.
 
