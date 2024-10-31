@@ -19,9 +19,3 @@ Your privacy is important to us. This privacy policy explains how our multi-down
 
 
 By using this app, you agree to the terms outlined in this privacy policy.
-
-
----
-
-Let me know if you'd like to customize this further!
-
