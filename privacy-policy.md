@@ -1,7 +1,7 @@
 <html>
 <body>
 <h2>Privacy Policy</h2>
-<p>Daniel Ekwere  built the status saver app as a ad-supported app. This SERVICE is provided by DANIEL EKWERE  at no cost and is intended
+<p>Daniel Ekwere  built the multi Video Downloader app as a ad-supported app. This SERVICE is provided by DANIEL EKWERE  at no cost and is intended
     for use as is.</p>
 <p>This page is used to inform website visitors regarding my policies with the collection, use, and
     disclosure of Personal Information if anyone decided to use my Service.</p>
